@@ -1,4 +1,4 @@
 ---
 title: Home
 ---
-→ Start with **[[Friction]]**
+→ Start with **[[Frikcia ako nový dizajnový prístup]]**

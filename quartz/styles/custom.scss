@@ -1,3 +1,9 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+h2#footnote-label.sr-only {
+  display: none;
+}
+
+h1:not([class]):not([id]) {
+  display: none;
+}

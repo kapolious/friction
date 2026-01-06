@@ -1,0 +1,3 @@
+Acknowledge the fulfilment in the non-positive. Today’s digital technology creates a society that is in ‘pursuit of happiness’, in awe of positivity. (As a counterweight of the negativity it produces?) Smoothness doesn’t injure. It doesn’t produce resistance. It enforces the Like. These mechanisms feed our desire for attention and being seen. Designing friction cherishes the non-positive, the ‘digital unseen’, the disagreement, the doubt, the vulnerable, the complicated. This is what makes us human.
+
+– Luna Maurer, Roel Wouters, Alexandra Barancová
