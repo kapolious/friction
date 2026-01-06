@@ -4,7 +4,7 @@ V posledných dekádach sa human-centered design stal pilierom tvorby digitálny
 
 Toto portfólio skúma štyri artefakty, ktoré s frikciou pracujú ako s dizajnovým nástrojom, nie ako s chybou. Postupuje od teoretického rámca cez pravidlá navrhovania webov až k praktickým nástrojom, ktoré frikciu aktívne zavádzajú do každodennej internetovej skúsenosti.
 
-## Luna Maurer ^luna-header
+## Luna Maurer
 
 ![[Luna Maurer – Emoticons Don't Have Wrinkles]]
 

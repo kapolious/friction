@@ -7,3 +7,8 @@ h2#footnote-label.sr-only {
 h1:not([class]):not([id]) {
   display: none;
 }
+
+.navbar .graph-icon,
+.graph-view {
+  display: none !important;
+}
