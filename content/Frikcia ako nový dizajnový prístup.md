@@ -4,21 +4,26 @@ V posledných dekádach sa human-centered design stal pilierom tvorby digitálny
 
 Toto portfólio skúma štyri artefakty, ktoré s frikciou pracujú ako s dizajnovým nástrojom, nie ako s chybou. Postupuje od teoretického rámca cez pravidlá navrhovania webov až k praktickým nástrojom, ktoré frikciu aktívne zavádzajú do každodennej internetovej skúsenosti.
 
-## Luna Maurer
+## Luna Maurer – Emoticons Don't Have Wrinkles
 
 ![[Luna Maurer – Emoticons Don't Have Wrinkles]]
 
 Manifest navrhuje navrhuje päť spôsobov, ktoré túto plynulosť narúšajú: [[diskomfort]], [[časové oneskorenie]], [[zapojenie tela]], [[nepozitívnosť]] a [[nepredvídateľnosť]]. Nasledujúce artefakty niektoré z týchto princípov aplikujú v praxi a vytvárajú pre používateľov priestor na reflexiu: *„Koľko frikcie je potrebnej, aby sme prestali konať v zabehnutých vzorcoch?*“
 
+## David Bryant Copeland – Guidelines for Brutalist Web
 ![[David Bryant Copeland – Guidelines for Brutalist Web]]
 
 Na obrázkoch je vidno ukážku brutalistického prístupu pri tvorbe webu. Pre používateľa zvyknutého na bohaté vizuálne rozhrania to môže predstavovať určitý [[diskomfort]] podobne ako autori navrhujú v manifeste [[Designing Friction]]. 
+
+## Ben Grosser – Textbook
 
 ![[Ben Grosser – Textbook]]
 
 Tento koncept sa taktiež viaže na [[nepozitívnosť]]. Skrytím ikoniek ako „páči sa mi“, emoji či fotografií plugin odstraňuje pozitívne vizuálne podnety, ktoré často robia sociálne siete príjemnými a okamžite zaujímavými.
 
 Kým *brutalistický web* aplikuje frikciu na dizajnérskej úrovni (čo vytvoriť), *Textbook* ju zavádza na   úrovni užívateľskej (čo odstrániť). Oba ale zdieľajú presvedčenie, že menej dekoratívneho obsahu znamená viac pozornosti.
+
+## absurd.website – Slow Internet Simulator
 
 ![[absurd.website – Slow Internet Simulator]]
 
