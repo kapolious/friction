@@ -39,4 +39,4 @@ Všetky artefakty zdieľajú presvedčenie, že každé odstránenie prekážky 
 
 Portfólio predstavuje frikciu ako nástroj pre návrat k vedomému konaniu. Návrhy nenabádajú k návratu do minulosti, ale k prehodnoteniu, čo vlastne znamená „*dobrý dizajn*“.
 
-![alt text](../Obrázky/designing_friction.gif)*Zdroj: Luna Maurer; Roel Wouters; Barancová Alexandra, 2023,[](https://designingfriction.com/)
+![Pohyblivý obrázok, v ktorom kreslené postavy po tvorcoch digitálnych produktov žiadajú frikciu.](../Obrázky/designing_friction.gif)*Zdroj: Luna Maurer; Roel Wouters; Barancová Alexandra, 2023,[](https://designingfriction.com/)*
