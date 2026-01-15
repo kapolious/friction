@@ -1,4 +1,4 @@
-Plugin *Textbook*[^4] zavádza drobnú frikciu: odoberá používateľovi vizuálne skratky, ktoré mu umožňovali „čítať“ obsah bez vedomého čítania. Maže obrázky a ikony, no ponecháva po nich prázdne štvorce – viditeľné stopy poukazujúce na množstvo vizuálnych informácií, s ktorými bežne interagujeme. Narúša tak zaužívaný rytmus pasívneho listovania – vytvára [[diskomfort]], ktorý nás núti prejsť do režimu aktívneho skúmania.
+Plugin *Textbook*[^4] zavádza drobnú frikciu: odoberá používateľovi vizuálne skratky, ktoré mu umožňovali *čítať* obsah bez vedomého čítania. Maže obrázky a ikony, no ponecháva po nich prázdne štvorce – viditeľné stopy poukazujúce na množstvo vizuálnych informácií, s ktorými bežne interagujeme. Narúša tak zaužívaný rytmus pasívneho listovania – vytvára [[diskomfort]], ktorý nás núti prejsť do režimu aktívneho skúmania.
 
 ![Domovská Facebook stránka, na ktorej sú všetky obrázky a ikony nahradené bielymi obdĺžnikmi.](../Obrázky/textbook.png)
 *Zdroj: Ben Grosser, 2017,*&nbsp;[](https://bengrosser.com/projects/textbook/)
